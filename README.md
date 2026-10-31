@@ -2,7 +2,8 @@
 
 <img width="6784" height="2218" alt="Untitled65_20261031225400" src="https://github.com/user-attachments/assets/6873f060-6e3f-4ee9-b57d-947a4673c3e8" />
 
- <img width="6784" height="2218" alt="Untitled65_20261031225423" src="https://github.com/user-attachments/assets/921b1927-5544-4b70-86b7-fd686a851c23" />
+<img width="2782" height="2218" alt="Untitled66_20261031231828" src="https://github.com/user-attachments/assets/1c08b941-cf0d-4110-9f2d-185f23f2a876" />
+
         
          
 <img width="424" height="240" alt="IMG_1210" src="https://github.com/user-attachments/assets/da03c477-4f58-48b1-a777-2af4793fe9bf" />
