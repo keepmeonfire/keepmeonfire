@@ -10,7 +10,6 @@
 <img width="2782" height="2218" alt="Untitled66_20261031231042" src="https://github.com/user-attachments/assets/629d25c5-98ea-4bbb-bc00-65ff0c8b9e5a" />
 
 <img width="424" height="240" alt="IMG_1211" src="https://github.com/user-attachments/assets/86f7d347-1dae-40ab-a5bc-93ca5b9c27d5" />
+<img width="6176" height="2218" alt="Untitled67_20261031232158" src="https://github.com/user-attachments/assets/370f967e-ad3f-4009-ba3f-940584ad285c" />
 
-
-               pls bmf . im nice 
 
