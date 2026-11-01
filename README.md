@@ -2,7 +2,8 @@
 
 <img width="6784" height="2218" alt="Untitled65_20261031225400" src="https://github.com/user-attachments/assets/6873f060-6e3f-4ee9-b57d-947a4673c3e8" />
 
-<img width="2782" height="2218" alt="Untitled66_20261031231828" src="https://github.com/user-attachments/assets/1c08b941-cf0d-4110-9f2d-185f23f2a876" />
+<img width="6784" height="2218" alt="Untitled65_20261031225423" src="https://github.com/user-attachments/assets/976f0d94-4594-40a4-973d-8996b0236867" />
+
 
         
          
