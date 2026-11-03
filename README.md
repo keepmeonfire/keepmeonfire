@@ -7,11 +7,15 @@
 
         
          
-<img width="424" height="240" alt="IMG_1210" src="https://github.com/user-attachments/assets/da03c477-4f58-48b1-a777-2af4793fe9bf" />
+<p align="center"> <img width="424" height="240" alt="IMG_1210" src="https://github.com/user-attachments/assets/da03c477-4f58-48b1-a777-2af4793fe9bf" />
+
+
 <img width="2782" height="2218" alt="Untitled66_20261031231042" src="https://github.com/user-attachments/assets/629d25c5-98ea-4bbb-bc00-65ff0c8b9e5a" />
 
 <img width="424" height="240" alt="IMG_1211" src="https://github.com/user-attachments/assets/86f7d347-1dae-40ab-a5bc-93ca5b9c27d5" />
 <img width="6176" height="2218" alt="Untitled67_20261031232158" src="https://github.com/user-attachments/assets/370f967e-ad3f-4009-ba3f-940584ad285c" />
+
+![](https://komarev.com/ghpvc/?username=keepmeonfire&color=fbc45c&style=flat-square)
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sjx7u7psjiydt22oai6rkbfseq&cover_image=false&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=fbc45c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
